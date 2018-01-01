@@ -1,0 +1,9 @@
+/.metadata/
+/bin/
+/*/.classpath
+/*/.project
+/*/.cache*
+/*/.settings/
+/*/bin/
+/*/target/
+/progfun1-homework*
